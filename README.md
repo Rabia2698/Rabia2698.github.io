@@ -1,4 +1,4 @@
-![alt text](/image/header.png)
+
 # Porfolio
 
 Email: rabiatul2698@gmail.com
