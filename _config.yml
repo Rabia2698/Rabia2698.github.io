@@ -10,7 +10,7 @@ remote_theme        : Rabia2698/Rabia2698.github.io
 ### Plugins ###
 plugins:
   - jemoji
-  - jekyll-seo-tag # SEO Tag: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md
+  - jekyll-theme-cayman # SEO Tag: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md
 
 
 
