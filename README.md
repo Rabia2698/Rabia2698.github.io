@@ -1,5 +1,3 @@
-<img width="1000" height="138" alt="image" src="/image/header.png" />
-
 # Porfolio
 
 Email: rabiatul2698@gmail.com
